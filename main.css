@@ -19,6 +19,10 @@
   background-color: #222;
   color: white;
 }
+.user.active {
+  background-color: #44f612;
+  color: #222;
+}
 .main {
   flex-grow: 1;
   padding: 20px;
